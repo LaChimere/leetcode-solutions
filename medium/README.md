@@ -1,10 +1,8 @@
 # Medium
 
-<table>
-    <tr>
-        <td><a href="0560. Subarray Sum Equals K.md">560. Subarray Sum Equals K</a></td>
-    </tr>
-    <tr>
-    </tr>
-</table>
+| 题目                                                         | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [560. Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | <a href="0560. Subarray Sum Equals K.md">Subarray Sum Equals K</a> |
+
+
 
